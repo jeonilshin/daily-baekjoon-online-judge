@@ -1,2 +1,11 @@
-# daily-baekjoon-online-judge
-This repository is for my daily coding study... started: 01/15/25
+```json
+{
+  "name": "Baekjoon Online Judge",
+  "startDate": "25/01/15:16:00:15"
+  "techStack": [
+    "Javascript",
+    "Python",
+  ],
+  "progress": "0%"
+}
+```
