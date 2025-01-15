@@ -1,11 +1,11 @@
 ```json
 {
   "name": "Baekjoon Online Judge",
-  "startDate": "25/01/15:16:00:15"
+  "startDate": "25/01/15:16:00:15",
   "techStack": [
-    "Javascript",
+    "C",
     "Python",
   ],
-  "progress": "0%"
+  "progress": "0.3%"
 }
 ```
